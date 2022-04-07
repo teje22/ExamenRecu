@@ -1,0 +1,12 @@
+public static void mostrarPares() {
+	Scanner teclado = new Scanner(System.in);
+	System.out.println("Introduzca el número por teclado");
+	int total = teclado.nextInt();
+	int i;
+	for (i = 1; i > total; i++)
+	{
+		if (if%2!=0) {
+			System.out.println(i);
+		}
+	}
+}
